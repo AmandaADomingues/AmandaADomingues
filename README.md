@@ -1,6 +1,6 @@
-### Olá!!! Eu sou Amanda Domingues 👩‍💻
+Olá!!! Eu sou Amanda Domingues 👩‍💻
 
-####Bem-vindo ao meu repositório github! 😊
+Bem-vindo ao meu repositório github! 😊
 
 Eu sou natural do Rio de Janeiro, Brasil 🌎
 Tenho Formação técnica em Informática desde 2011 🖥️
